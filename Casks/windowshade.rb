@@ -1,6 +1,6 @@
 cask "windowshade" do
   version "1.0.20"
-  sha256 "414bae0161ea4d63f5223bae4f16d802c4bae2acf32f2e46dcc3223475fbf737"
+  sha256 "abf14a2f11030b4e76f84290fe015d1bace8dc0b224d8d51025e9844b1667515"
 
   url "https://github.com/surfine/WindowShade/releases/download/v#{version}/WindowShade-v#{version}.zip"
   name "WindowShade"
